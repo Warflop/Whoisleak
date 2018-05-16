@@ -1,0 +1,8 @@
+python-whois
+whois
+argparse
+requests
+cfscrape
+json
+Image
+time
