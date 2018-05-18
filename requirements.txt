@@ -3,6 +3,5 @@ whois
 argparse
 requests
 cfscrape
-json
 Image
 time
